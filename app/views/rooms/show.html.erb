@@ -3,3 +3,8 @@
 <div id="messages">
   <%= render @messages %>
 </div>
+
+<div>
+  <input id="content" type="text" />
+  <input type="button" onclick="App.room.speak($('#content').val()); $('#content').val('').focus();" value="Send" />
+</div>
