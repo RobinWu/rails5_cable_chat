@@ -4,7 +4,7 @@ This is chat demo by Rails5 ActionCable + ActiveJob
 
 # DOC
 
-http://railscasts-china.com/episodes/action-cable-rails-5
+http://railscasts-china.com/episodes/action-cable-rails-5 <br/>
 http://guides.rubyonrails.org/action_cable_overview.html
 
 # Q&A
